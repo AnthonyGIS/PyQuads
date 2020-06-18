@@ -1,0 +1,9 @@
+# idea
+
+env
+*.png
+*.gif
+*.jpg
+
+frames/
+!data/*.*
